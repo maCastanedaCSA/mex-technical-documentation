@@ -4,6 +4,8 @@ nav:
   - General:
     - Coding Standards: general/coding-standards.md
     - Tools: general/tools.md
+  - MeLi Ads API:
+    - Introduction: meli-ads-api/intro.md
   - Documentation Template:
     - Introduction: docs-template/intro.md
     - Architecture: docs-template/architecture.md
